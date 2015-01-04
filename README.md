@@ -5,7 +5,7 @@ Robojava is a [Gradle](https://www.gradle.org) plugin that allows simple integra
 
 Usage
 -----
-The plugin is available on [Jcenter](https://bintray.com/bintray/jcenter)
+The plugin is available on [Jcenter](https://bintray.com/bintray/jcenter) as [robojava-plugin](https://bintray.com/kageiit/gradle-plugins/robojava-plugin/view)
 
 Assuming your project structure is a [Multi Project Gradle Build](https://gradle.org/docs/current/userguide/multi_project_builds.html), add the following to your root `build.gradle`:
 
